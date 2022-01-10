@@ -33,9 +33,9 @@ $ yarn ou npm start
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-ReactJS
-Javascript
-Next.js
+* ReactJS
+* Javascript
+* Next.js
 </br>
 
 ## 📕 Bibliotecas
