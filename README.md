@@ -28,15 +28,14 @@ $ yarn ou npm
 # Execute a aplicação
 $ yarn ou npm start
 ```
-
 </br>
+
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ReactJS
 Javascript
 Next.js
-
 </br>
 
 ## 📕 Bibliotecas
