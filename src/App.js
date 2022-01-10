@@ -1,4 +1,5 @@
 import React, {useEffect, useState } from 'react';
+import './App.css'
 import Tmdb from './Tmdb';
 import MovieRow from './components/MovieRow';
 
@@ -8,7 +9,6 @@ export default() => {
 
   useEffect(() => {
     const loadAll = async () => {
-      //Pegando a toda a lista
       let list = await Tmdb.getHomeList();
       setMovieList(list);
     }
@@ -24,5 +24,5 @@ export default() => {
         ))}
       </section>
     </div>
-  )
+  );
 }
