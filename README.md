@@ -57,4 +57,4 @@ Todos direitos são reservados a Netflix e ao The Movie Database.
 Esse projeto está sob a licença MIT.
 </br>
 
-Feito por <a href="https://github.com/gustavo-nt">Gustavo Teixeira</a>
+Feito por Bonieky Lacerda
