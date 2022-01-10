@@ -14,6 +14,7 @@ UI Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The
 ## Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js e/ou Yarn. Além disto é bom ter um editor para trabalhar com o código como VSCode
 </br>
+
 ```
 📗 Rodando a Aplicação (web)
 # Clone este repositório
@@ -25,6 +26,7 @@ $ yarn ou npm
 # Execute a aplicação
 $ yarn ou npm start
 ```
+
 </br>
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
