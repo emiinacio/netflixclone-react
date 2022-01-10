@@ -8,9 +8,11 @@
  - [ ] Preview do título selecionado
  - [ ] Recomendações de filmes/séries
 </br>
+
  ## Projeto
 UI Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The Movie Database. Esse Projeto foi desenvolvido durante a live ministrada pelo professor Boenick Lacerda.
 </br>
+
 ## Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js e/ou Yarn. Além disto é bom ter um editor para trabalhar com o código como VSCode
 </br>
@@ -34,7 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ReactJS
 Javascript
 Next.js
+
 </br>
+
 ## 📕 Bibliotecas
 Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
 
@@ -44,10 +48,14 @@ Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
 * sass
 * next-images
 * babel-plugin-inline-react-svg
+* 
 </br>
+
 ## ⚖ Direitos
 Todos direitos são reservados a Netflix e ao The Movie Database.
+
 </br>
+
 ## 📝 Licença
 Esse projeto está sob a licença MIT.
 Feito por Gustavo Teixeira
