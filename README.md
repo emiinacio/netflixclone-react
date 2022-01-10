@@ -48,14 +48,14 @@ Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
 * sass
 * next-images
 * babel-plugin-inline-react-svg
-* 
 </br>
 
 ## ⚖ Direitos
 Todos direitos são reservados a Netflix e ao The Movie Database.
-
 </br>
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT.
+</br>
+
 Feito por Gustavo Teixeira
